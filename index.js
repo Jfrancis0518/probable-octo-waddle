@@ -4,8 +4,8 @@ const fs = require('fs');
 const fileName = 'README.md';
 
 //import generateMarkdown from './utils/generateMarkdown.js';
-import inquirer from 'inquirer';
-import fs from 'fs';
+//import inquirer from 'inquirer';
+//import fs from 'fs';
 
 //const fileName = 'README.md';
 
