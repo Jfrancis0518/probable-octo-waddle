@@ -1,5 +1,5 @@
 const generateMarkdown = require('./utils/generateMarkdown.js');
-const inquirer = require('inquirer');
+const inquirer = require('inquirer').default;
 const fs = require('fs');
 const fileName = 'README.md';
 
